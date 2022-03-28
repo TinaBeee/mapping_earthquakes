@@ -2,8 +2,8 @@
 Mapping earthquakes based on data by the U.S. Geological Survey using Leaflet and Mapbox to create an interactive map displaying latest global earthquakes
 
 ## Resources
-- Earthquake Data: https://on.doi.gov/3IuRBhA & https://on.doi.gov/3AqwV7N (USGS data of past seven day earthquakes, and past seven day earthquakes of >4.5 quakes)
-- Tectonic Plate Data: https://bit.ly/3GWaQjM (Github profile fraxen, GeoJSON/PB2002_boundaries.json)
+- Earthquake Data: [here](https://on.doi.gov/3IuRBhA) & [here](https://on.doi.gov/3AqwV7N) (USGS data of past seven day earthquakes, and past seven day earthquakes of >4.5 quakes)
+- Tectonic Plate Data: [here](https://bit.ly/3GWaQjM) (Github profile fraxen, GeoJSON/PB2002_boundaries.json)
 - Software: Visual Studio Code 1.60.0, D3 5.5.0, Leaflet 1.7.1, Mapbox
 
 ## Overview
