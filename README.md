@@ -1,5 +1,6 @@
 ## Mapping Earthquakes with Leaflet & Mapbox
-Mapping earthquakes based on data by the U.S. Geological Survey using Leaflet and Mapbox to create an interactive map displaying latest global earthquakes
+Mapping earthquakes based on data by the U.S. Geological Survey using Leaflet and Mapbox to create an interactive map displaying latest global earthquakes.
+You can check out the interactive map [here](https://tinabeee.github.io/mapping_earthquakes/) and play around with the layers and toggle options.
 
 ## Resources
 - Earthquake Data: [here](https://on.doi.gov/3IuRBhA) & [here](https://on.doi.gov/3AqwV7N) (USGS data of past seven day earthquakes, and past seven day earthquakes of >4.5 quakes)
@@ -8,6 +9,8 @@ Mapping earthquakes based on data by the U.S. Geological Survey using Leaflet an
 
 ## Overview
 Mapping_Challenge folder contains js, css and html files, which build a map with four different Mapbox layers, and three toggle layers to map all earthquakes, tectonic plate lines, and major earthquakes of magnitude 4.5 and higher. Earthquakes are mapped with circles, with radius and color illustrating magniude. Map legend on the bottom right hand corner explains colors.
+
+The Mapbox API key is limited for this specific URL and will not work for any other site.
 
 
 ### Map with all toggles active on 'street' style layer:
